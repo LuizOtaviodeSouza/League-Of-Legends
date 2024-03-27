@@ -1,0 +1,10 @@
+Configurar o GIT Local
+git config --global user.name Luiz O.
+git config --global user.email lui-otavio@hotmail.com
+
+Criar um projeto MVC com C#
+dotnet new mvc -o Xmen
+
+Executar o projeto
+cd Xmen
+dotnet watch run

@@ -1,0 +1,77 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Aurelion Sol",
+    "Descricao": "",
+    "Especie": "Seed",
+    "Tipo": ["Mago"],
+    "Rota": "Meio",
+    "Imagem": "\\img\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Jhin",
+    "Descricao": "",
+    "Especie": "Semente",
+    "Tipo": ["Atirador"],
+    "Rota": "Inferior",
+    "Imagem": "\\img\\002.png"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Milio",
+    "Descricao": "",
+    "Especie": "Flor",
+    "Tipo": ["Planta"],
+    "Rota":"Suporte",
+    "Imagem": "\\img\\003.png"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Ornn",
+    "Descricao": "",
+    "Especie": "Lagarto",
+    "Tipo": ["Fogo"],
+    "Altura": 0.6,
+    "Peso": 8.5,
+    "Imagem": "\\img\\004.png"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Senna",
+    "Descricao": "",
+    "Especie": "Chama",
+    "Tipo": ["Fogo"],
+    "Altura": 1.1,
+    "Peso": 19.0,
+    "Imagem": "\\img\\005.png"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Thresh",
+    "Descricao": "",
+    "Especie": "Chama",
+    "Tipo": ["Fogo", "Voador"],
+    "Altura": 1.7,
+    "Peso": 90.5,
+    "Imagem": "\\img\\006.png"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Volibear",
+    "Descricao": "",
+    "Tipo": ["Água"],
+    "Altura": 0.5,
+    "Peso": 9.0,
+    "Imagem": "\\img\\007.png"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Yummi",
+    "Descricao": "",
+    "Tipo": ["Água"],
+    "Altura": 1.0,
+    "Peso": 22.5,
+    "Imagem": "\\img\\008.png"
+  }
+]
