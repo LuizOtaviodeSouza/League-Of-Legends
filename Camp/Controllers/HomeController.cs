@@ -1,6 +1,8 @@
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
+using System.Text.Json;
 using Camp.Models;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace Camp.Controllers;
 
@@ -15,7 +17,12 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Herois> campeoes = [];
+        using (StreamReader leior = new("Data//Oque.json")){
+            string dados = leior.ReadToEnd();
+            campeoes = JsonSerializer.Deserialize<List<Herois>>(dados);
+        }
+        return View(campeoes);
     }
 
     public IActionResult Privacy()

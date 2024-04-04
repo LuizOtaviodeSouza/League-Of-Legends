@@ -4,8 +4,8 @@
     "Nome": "Aurelion Sol",
     "Descricao": "Aurelion Sol costumava agraciar a vasta imensidão vazia dos cosmos com maravilhas celestiais concebidas por ele mesmo. Agora, ele é forçado a usar seu incrível poder a mando de um império espacial remoto que o enganou e o mantém sob servidão. Desejando voltar a forjar estrelas, Aurelion Sol arrastará as próprias estrelas dos céus se for preciso para recuperar sua liberdade.",
     "Especie": "Deus",
-    "Função": ["Mago"],
-    "Rota": "Meio",
+    "Funcao": ["Mago"],
+    "Rota":[ "Meio"],
     "Imagem": "\\Herois\\AurelionSol.jpg"
   },
   {
@@ -13,8 +13,8 @@
     "Nome": "Jhin",
     "Descricao": "Jhin é um meticuloso psicopata criminoso que acredita que o assassinato é uma arte. Outrora um prisioneiro ioniano, mas libertado por membros obscuros do conselho regimental de Ionia, o assassino serial agora trabalha como assassino de seu conluio. Usando a própria arma como pincel, Jhin cria obras artisticamente brutais, horrorizando vítimas e espectadores. Ele sente um cruel prazer ao fazer suas encenações nefastas, tornando-o a escolha ideal para transmitir a mais poderosa das mensagens: o terror.",
     "Raça": "Humano",
-    "Função": ["Atirador"],
-    "Rota": "Inferior",
+    "Funcao": ["Atirador"],
+    "Rota": ["Inferior"],
     "Imagem": "\\Herois\\Jhin.jpg"
   },
   {
@@ -22,8 +22,8 @@
     "Nome": "Milio",
     "Descricao": "Milio é um menino de Ixtal com um coração enorme e caloroso. Apesar da pouca idade, dominou o axioma do fogo e descobriu algo novo: o fogo tranquilizante. Com esse novo poder, Milio quer ajudar sua família a escapar do exílio unindo-se aos Yun Tal, a exemplo do que sua avó fez um dia. Tendo viajado pelas selvas de Ixtal até a capital de Ixaocan, Milio agora se prepara para enfrentar o Vidálio e se juntar aos Yun Tal, sem saber das provações — e perigos — que lhe aguardam.",
     "Especie": "Humano",
-    "Função": ["Suporte"],
-    "Rota":"Inferior",
+    "Funcao": ["Suporte"],
+    "Rota":["Inferior"],
     "Imagem": "\\Herois\\Milio.jpg"
   },
   {
@@ -31,8 +31,8 @@
     "Nome": "Ornn",
     "Descricao": "Ornn é o espírito Freljordano da forja e da artesania. Ele trabalha na solidão de uma enorme fornalha, construída a marteladas por entre as cavernas de lava do vulcão Pedra-Lar. Lá, ele aquece caldeirões de pedra fundida para purificar metais e forjar itens de qualidade insuperável. Quando outras divindades — principalmente Volibear — descem à Terra para intervir nos assuntos dos mortais, Ornn aparece para colocar esses seres impetuosos em seu devido lugar, seja com seu fiel martelo ou com o poder ardente das próprias montanhas.",
     "Especie": "Semi Deus",
-    "Função": ["Tank"],
-    "Rota":"Superior",
+    "Funcao": ["Tank"],
+    "Rota":["Superior"],
     "Imagem": "\\Herois\\Ornn.jpg"
   },
   {
@@ -40,8 +40,8 @@
     "Nome": "Senna",
     "Descricao": "Amaldiçoada desde a infância a ser perseguida pelo fenômeno sobrenatural da Névoa Negra, Senna se juntou à ordem dos Sentinelas da Luz e lutou bravamente contra seu destino. Ela acabou sendo morta e teve sua alma aprisionada em uma lanterna pelo cruel espectro Thresh. No entanto, por se recusar a perder as esperanças, ela aproveitou seu tempo dentro da lanterna para aprender a usar a Névoa, ressurgindo com uma nova vida e sabendo que jamais voltaria a ser a mesma. Agora, armada com as forças da luz e da escuridão, Senna busca exterminar a Névoa Negra, atraindo o fenômeno para si mesma a cada disparo de sua arma relicária e salvando as almas perdidas que ali residem.",
     "Raça": "Espectral / Humano",
-    "Função": ["Atirador", "Suporte"],
-    "Rota":"Inferior",
+    "Funcao": ["Atirador", "Suporte"],
+    "Rota":["Inferior"],
     "Imagem": "\\Herois\\Senna.jpg"
   },
   {
@@ -49,8 +49,8 @@
     "Nome": "Thresh",
     "Descricao": "Sádico e astuto, Thresh é um espírito ambicioso e incansável das Ilhas das Sombras. Ele já foi guardião de incontáveis segredos arcanos, mas acabou sucumbindo a poderes maiores do que a vida e a morte. Agora, Thresh vive atormentando e corrompendo vítimas de forma lenta e dolorosamente criativa. Seus alvos sofrem muito além de seus corpos mortais, pois Thresh aflige as próprias almas, aprisionando-as em sua lanterna maldita para torturá-las por toda a eternidade.",
     "Especie": "Espectral",
-    "Função": ["Tank", "Suporte"],
-    "Rota":"Inferior",
+    "Funcao": ["Tank", "Suporte"],
+    "Rota":["Inferior"],
     "Imagem": "\\Herois\\Thresh.jpg"
   },
   {
@@ -58,7 +58,7 @@
     "Nome": "Volibear",
     "Descricao": "Para aqueles que ainda o veneram, Volibear é a forma manifestada da tempestade. Destrutivo, selvagem e implacavelmente obstinado, ele já existia antes mesmo que os mortais andassem sobre a tundra de Freljord, protegendo as terras que ele e seus irmãos semideuses criaram. Com um ódio profundo pela civilização e pela fraqueza inerente a ela, Volibear luta para recuperar os velhos costumes de quando a terra era selvagem e o sangue jorrava livremente. Ele enfrenta todos aqueles que ousam entrar em seu caminho com dentes, garras e dominação estrondosa.",
     "Especie":"Semi Deus",
-    "Função": ["Lutador", "Tank"],
+    "Funcao": ["Lutador", "Tank"],
     "Rota":["Superior" ,"Selva"],
     "Imagem": "\\Herois\\Volibear.jpg"
   },
@@ -66,8 +66,8 @@
     "Numero": 8,
     "Nome": "Yummi",
     "Descricao": "Uma gata mágica de Bandópolis, Yuumi já foi a mascote de uma feiticeira yordle chamada Norra. Mas quando sua mestra desapareceu misteriosamente, Yuumi se tornou a Guardiã do Livro dos Portais de Norra, viajando à procura dela através dos portais nas páginas. Sentindo falta do carinho de sua mestra, Yuumi busca diversas companhias em sua jornada, protegendo a todos com escudos luminosos e determinação ferrenha. Enquanto Livro se esforça para mantê-la focada na tarefa, Yuumi costuma se distrair com regalias mundanas, como cochilos e peixe para o jantar. Porém, no fim das contas, ela sempre retoma a missão: encontrar sua querida amiga.",
-    "Função": ["Suporte"],
-    "Rota":"Inferior",
+    "Funcao": ["Suporte"],
+    "Rota":["Inferior"],
     "Imagem": "\\Herois\\Yummi.jpg"
   }
 ]
