@@ -9,7 +9,7 @@
     },
     {
       "Nome": "Mago",
-      "Cor": "#00FFFF"
+      "Cor": "#00008b"
     },
     {
       "Nome": "Assasino",
@@ -21,6 +21,6 @@
     },
     {
       "Nome": "Suporte",
-      "Cor": "#00FF00"
+      "Cor": "#83E509"
     }
 ]
